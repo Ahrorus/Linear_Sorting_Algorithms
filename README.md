@@ -2,8 +2,16 @@
 
 This projects’s purpose is to show the effectiveness of the three standard linear sorting algorithms.
 
-> It consists of three applications (.jar files), to test counting, radix, and bucket sorting algorithms. For counting sort, it sorts a given array of numbers and proves the stability of the algorithm. For radix sort, it sorts a randomly generated array of hexadecimal numbers (hex-strings). For the bucket sort, it sorts a given array of numbers and proves the stability of the algorithm.
+> It consists of three applications (.jar files), to test counting, radix, and bucket sorting algorithms. 
+> For counting sort, it sorts a given array of numbers and proves the stability of the algorithm. 
+> For radix sort, it sorts a randomly generated array of hexadecimal numbers (hex-strings). 
+> For the bucket sort, it sorts a given array of numbers and proves the stability of the algorithm.
 
+```diff 
+- The source code is secured in the archive, and a password is required to access it. 
+It was done  to prevent future students from copying it. 
+Please, contact me if you need the access to the source code, and be sure state the reason.
+```
 To run, open the command line in the project folder and type one of these three commands, one for each application.
 
 For counting sort, run:
